@@ -1,0 +1,5 @@
+borrowerId,fullName,phoneNumber,monthlyIncome,numberOfDependents,employmentStatus
+B001,Test Borrower,0123456789,1800.0,2,Employed
+B002,Aisyah,012456789,2200.0,3,Employed
+B003,ali,017654837,2000.0,2,Self-employed
+B900,Borrower,0126537483,1800.0,2,Employed
